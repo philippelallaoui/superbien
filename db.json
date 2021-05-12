@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hello"
+      "email":"yahoo61@laposte.net"
+      "phone":"0634365301" 
+      "prenon":"Philippe
+
+      
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
